@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<match_choose_otm>
+  <instructions>&lt;p&gt;Here is the direction line&lt;/p&gt;</instructions>
+  <activityTitle>&lt;p&gt;Activity title&lt;/p&gt;</activityTitle>
+  <activitySubtitle>&lt;p&gt;Activity subtitle&lt;/p&gt;</activitySubtitle>
+  <fontSize value="small" />
+  <activityAudio />
+  <activityVideo />
+  <randomizeQuestions value="no" />
+  <randomizeAnswers value="no" />
+    <activityMode />
+  <timedMode />
+  <questions>
+    <question>
+      <Audio>audio.mp3</Audio>
+      <Image />
+      <text>&lt;p&gt;Listen to the audio and answer the question.&lt;/p&gt;</text>
+      <answers>
+        <answer>&lt;p&gt;&lt;b&gt;&lt;i&gt;Students go to school everyday and they get up early in the morning.&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;</answer>
+        <answer>&lt;p&gt;&lt;i&gt;&lt;u&gt;Students go to school everyday and they get up early in the morning1.&lt;/u&gt;&lt;/i&gt;&lt;/p&gt;</answer>
+        <answer>&lt;p&gt;Students go to school everyday and they get up early in the morning2.&lt;/p&gt;</answer>
+      </answers>
+      <correctanswer>2</correctanswer>
+    </question>
+    <question>
+      <Audio>audio.mp3</Audio>
+      <Image />
+      <text>&lt;p&gt;Here is the question.&lt;/p&gt;</text>
+      <answers>
+        <answer>&lt;p&gt;They go to school everyday in the morning&lt;/p&gt;</answer>
+        <answer>&lt;p&gt;They go to school everyday in the morning1&lt;/p&gt;</answer>
+        <answer>&lt;p&gt;Students like to dance and sing everyday&lt;/p&gt;</answer>
+        <answer>&lt;p&gt;Students like to dance and sing everyday1&lt;/p&gt;</answer>
+      </answers>
+      <correctanswer>3</correctanswer>
+    </question>
+    <question>
+      <Audio>audio.mp3</Audio>
+      <Image />
+      <text></text>
+      <answers>
+        <answer>&lt;p&gt;Answer 1&lt;/p&gt;</answer>
+        <answer>&lt;p&gt;Answer 2&lt;/p&gt;</answer>
+        <answer>&lt;p&gt;Answer 3&lt;/p&gt;</answer>
+        <answer>&lt;p&gt;Answer 4&lt;/p&gt;</answer>
+      </answers>
+      <correctanswer>3</correctanswer>
+    </question>
+    <question>
+      <Audio />
+      <Image />
+      <text />
+      <answers>
+        <answer />
+        <answer />
+      </answers>
+      <correctanswer />
+    </question>
+    <question>
+      <Audio />
+      <Image />
+      <text />
+      <answers>
+        <answer />
+        <answer />
+      </answers>
+      <correctanswer />
+    </question>
+  </questions>
+</match_choose_otm>
+

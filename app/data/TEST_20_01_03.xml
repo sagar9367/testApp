@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<match_choose_otm>
+  <instructions>&lt;p&gt;Here is a direction line.&lt;/p&gt;</instructions>
+  <activityTitle>&lt;p&gt;Activity title&lt;/p&gt;</activityTitle>
+  <activitySubtitle />
+  <fontSize value="large" />
+  <activityAudio />
+  <activityVideo>video.mp4</activityVideo>
+  <randomizeQuestions value="yes" />
+  <randomizeAnswers value="no" />
+    <activityMode />
+  <timedMode />
+  <questions>
+    <question>
+      <Audio />
+      <Image />
+      <text>&lt;p&gt;Here is Question #1 with some &lt;b&gt;bolding.&lt;/b&gt;&lt;/p&gt;</text>
+      <answers>
+        <answer>&lt;p&gt;&lt;i&gt;&lt;b&gt;Using some formatting here.&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;</answer>
+        <answer>&lt;p&gt;Do colors work? &amp;#160;They'd like them to.&lt;/p&gt;</answer>
+        <answer>&lt;p&gt;Answer #3&lt;/p&gt;</answer>
+      </answers>
+      <correctanswer>3</correctanswer>
+    </question>
+    <question>
+      <Audio />
+      <Image />
+      <text>&lt;p&gt;Does centering an item work? &amp;#160;They'd like it to work.&lt;/p&gt;</text>
+      <answers>
+        <answer>&lt;p&gt;Answer #1&lt;/p&gt;</answer>
+        <answer>&lt;p&gt;Answer #2&lt;/p&gt;</answer>
+      </answers>
+      <correctanswer>2</correctanswer>
+    </question>
+    <question>
+      <Audio />
+      <Image />
+      <text />
+      <answers>
+        <answer />
+        <answer />
+      </answers>
+      <correctanswer />
+    </question>
+    <question>
+      <Audio />
+      <Image />
+      <text />
+      <answers>
+        <answer />
+        <answer />
+      </answers>
+      <correctanswer />
+    </question>
+    <question>
+      <Audio />
+      <Image />
+      <text />
+      <answers>
+        <answer />
+        <answer />
+      </answers>
+      <correctanswer />
+    </question>
+  </questions>
+</match_choose_otm>
+

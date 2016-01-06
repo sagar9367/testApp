@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<match_choose_otm>
+  <instructions>&lt;p&gt;This is the direction line that appears on the Activity Intro screen.&lt;/p&gt;</instructions>
+  <activityTitle>&lt;p&gt;Vocabulary Practice&lt;/p&gt;</activityTitle>
+  <activitySubtitle>&lt;p&gt;Match: Practice&lt;/p&gt;</activitySubtitle>
+  <fontSize value="large" />
+  <activityAudio>audio.mp3</activityAudio>
+  <activityVideo />
+  <randomizeQuestions value="yes" />
+  <randomizeAnswers value="yes" />
+  <activityMode value="challenge"/>
+  <timedMode value="none" />
+  <questions>
+    <question>
+      <Audio />
+      <Image />
+      <text>&lt;p&gt;What is the audio saying?&lt;/p&gt;</text>
+      <answers>
+        <answer>&lt;p&gt;&lt;i&gt;Here's an example of something that will likely wrap.&lt;/i&gt;&lt;/p&gt;</answer>
+        <answer>&lt;p&gt;Students go d to school everyday and spend their day.&lt;/p&gt;</answer>
+        <answer>&lt;p&gt;Students go d1 to school everyday and spend their day.&lt;/p&gt;</answer>
+        <answer>&lt;p&gt;Students go d2 to school everyday and spend their day.&lt;/p&gt;</answer>
+      </answers>
+	  <correctanswer />
+    </question>
+    <question>
+      <Audio />
+      <Image />
+      <text>&lt;p&gt;What do you hear?&lt;/p&gt;</text>
+      <answers>
+        <answer>&lt;p&gt;cats sound and sleeping&lt;/p&gt;</answer>
+        <answer>&lt;p&gt;dogs sound and barking &lt;/p&gt;</answer>
+        <answer>&lt;p&gt;bears sound and sleeping&lt;/p&gt;</answer>
+        <answer>&lt;p&gt;lions sound and sleeping&lt;/p&gt;</answer>
+      </answers>
+	    <correctanswer />
+    </question>
+    <question>
+      <Audio />
+      <Image />
+      <text>&lt;p&gt;What do you hear?&lt;/p&gt;</text>
+      <answers>
+        <answer>&lt;p&gt;Sounds like people having a party&lt;/p&gt;</answer>
+        <answer>&lt;p&gt;Sounds like people are reading in a library&lt;/p&gt;</answer>
+        <answer>&lt;p&gt;Sounds like it's raining&amp;#160;&lt;/p&gt;</answer>
+      </answers>
+	    <correctanswer />
+    </question>
+    <question>
+      <Audio />
+      <Image />
+      <text />
+      <answers>
+        <answer />
+        <answer />
+      </answers>
+      <correctanswer />
+    </question>
+    <question>
+      <Audio />
+      <Image />
+      <text />
+      <answers>
+        <answer />
+        <answer />
+      </answers>
+      <correctanswer />
+    </question>
+  </questions>
+</match_choose_otm>
+
